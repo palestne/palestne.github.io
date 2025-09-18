@@ -1,6 +1,6 @@
-# PROi Guide
+# PROi Scribbles
 
-Home of the PROi repo. See the guide here: https://palestne.github.io
+Home of the PROi repo. See the scribbles here: https://palestne.github.io
 
 ----
 
