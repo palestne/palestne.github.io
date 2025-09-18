@@ -1,7 +1,6 @@
 ---
 title: About
 layout: home
-redirect_to: /docs/
 ---
 
 # About
