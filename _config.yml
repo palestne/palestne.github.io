@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: PROi Guide
+description: The PROi (PvM Run on Iron) guide aims to avoid the midgame plateau and get to high level PvMing quickly on a fresh iron account.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: todo
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: todo
+
+just_the_docs:
+  include_head: head_custom.html
