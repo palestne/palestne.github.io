@@ -2,13 +2,12 @@ title: PROi Guide
 description: The PROi (PvM Run on Iron) guide aims to avoid the midgame plateau and get to high level PvMing quickly on a fresh iron account.
 theme: just-the-docs
 color_scheme: light
-url: todo
 
 aux_links:
   Template Repository: todo
 
 just_the_docs:
   include_head: head_custom.html
-  
+
 plugins:
   - jekyll-redirect-from
