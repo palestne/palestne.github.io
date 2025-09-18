@@ -9,3 +9,6 @@ aux_links:
 
 just_the_docs:
   include_head: head_custom.html
+  
+plugins:
+  - jekyll-redirect-from
