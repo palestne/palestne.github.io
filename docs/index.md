@@ -19,7 +19,7 @@ The above list is relatively in sequence, and the contents will be divded into s
 
 The contents will be written with some intentional ambiguity, and rather than labelling them as steps they will instead be referred to as *pieces*. Compared to other guides that lay out, well steps in their case, in an extremely micromanaged fashion, these scribbles will lay out the pieces so that the user can bring in their own creativity. RuneScape is about charting your own journey, setting your own progression, solving puzzles, and frankly *growth*. This is the intention of laying the contents here as pieces instead of steps, so you express your own creativity. There are also explanations given on why we are doing these pieces. 
 
-To use an analogy from other RPGs - the pieces are waypoints that still allow you to take a detour to explore that cave. Anyway let's get to it - onto [Season I](docs/season-1.html).
+To use an analogy from other RPGs - the pieces are waypoints that still allow you to take a detour to explore that cave. Anyway let's get to it - onto [Season I](season-1.html).
 
 ----
 
