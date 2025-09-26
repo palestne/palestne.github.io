@@ -5,7 +5,9 @@ layout: home
 
 # About
 
-The goal of these scribbles/[series](https://www.youtube.com/watch?v=-1prbbf0Qvw&list=PLyybZ9tEDYq_LVr_I5ZkKAz1BVmZNaJE0) is to reach high level PvM fairly quickly on a fresh iron account. Maxing will **NOT** be the goal - aside from a select few non combat skills (ie construction for house + bank tp) most will be left at just the level required to do a certain quest/diary requirement (ie FM at 75). These scribbles/'guide' are also unapologetically 'inefficient' - they employ heavy afk/comfy methods of training in order to be accessible to most, while still aiming to 'rush' into PvMing. 
+The goal of these scribbles/[series](https://www.youtube.com/watch?v=-1prbbf0Qvw&list=PLyybZ9tEDYq_LVr_I5ZkKAz1BVmZNaJE0) is to reach high level PvM fairly quickly on a fresh iron account. Maxing will **NOT** be the goal - aside from a select few non combat skills (ie construction for house + bank tp) most will be left at just the level required to do a certain quest/diary requirement (ie FM at 75). 
+
+These scribbles also employ the use of let's say non intensive methods (no blackjacking or running around fletching here). 
 
 In order to PvM effectively we want to focus on the following:
 
