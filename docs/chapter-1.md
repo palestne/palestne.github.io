@@ -48,4 +48,4 @@ It is extremely important that you make your first trip count. You'll likely hav
 
 We'll eventually want 80 agility for the Cerb shortcut, so 77 plus quest rewards will get us 80 down the line.
 
-With more money than we know what to do with we have completed chapter 1, and head to setting up our [core dailies](chapter-2.html).
+With more money than we know what to do with we have completed chapter 1, and head to setting up our [transportation network](chapter-2.html).
