@@ -4,7 +4,7 @@ theme: just-the-docs
 color_scheme: light
 
 aux_links:
-  Template Repository: todo
+  Repo: https://github.com/palestne/palestne.github.io/tree/gh-pages
 
 just_the_docs:
   include_head: head_custom.html
