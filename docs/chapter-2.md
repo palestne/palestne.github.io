@@ -41,6 +41,7 @@ A note on RfD: Dwarf - an early rock cake can come in super handy for suiciding 
 - [ ] Sea Slug
 - [ ] Easy Ardougne Diary
 - [ ] Tree Gnome Village
+- [ ] Death Plateau 
 - [ ] Fight Arena
 - [ ] Grand Tree
 - [ ] Waterfall Quest
