@@ -8,11 +8,13 @@ parent: Season I - Early Game
 
 ## Foreword
 
-As we continue our push to unlocking dailies there are still a significant amount of quests yet to do. And these quests are best done with overheads. Overheads are fundemental in RS so we prioritize unlocking them, and with them doing the phase 2 quests that will eventually unlock the dailies. 
+As we continue our push to unlocking dailies there are still a significant amount of quests yet to do. And these quests are best done with overheads. Overheads are fundemental in RS, so let's unlock them and use them to do the phase 2 quests (ie Hero's requirements).
 
 ______
 
-Typically prayer training involves dragon boots and so that's what we'll do. To kill them effectively an Iban Staff is handy, which will also be useful for slayer training down the road. To do so we need to do some range training, Underground Pass and attack training:
+Typically prayer training involves dragon bones so that's what we'll do. You can either kill green drags, but we're pretty sick of the wilderness so killing blue dragons at Taverly with the shortcut (given we're 76 agility) and a falador TP makes for quick banking. To kill them effectively an Iban Staff is handy, which will also be useful for slayer training down the road. 
+
+To wield Iban Staff we need Underground Pass and 50 attack, which will involve some range training:
 
 - [ ] Do Goblin Diplomacy 
 - [ ] Do Death to the Dorgeshun
