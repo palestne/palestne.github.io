@@ -18,17 +18,23 @@ ______
 
 We'll first buy some runes and get some early magic levels:
 
-- [ ] Do Witch's Potion
-- [ ] Do Imp Catcher
+- [ ] Witch's Potion
+- [ ] Imp Catcher
 - [ ] Train magic to 51 
   - you can either afk fire strike, or splash curse if you want it faster
 
-We'll then want to push for Fairytale II for fairy ring teleports, which needs crafting and smithing. We also want to push for easy Ardy diary for the monastary teleport, and Tree Gnome Village to unlock the spirit trees. As stated in the beginning the scribbles won't micromanage on how we do these, but ultimately we need to do:
+We'll then want to push for Fairytale II for fairy ring teleports, which needs crafting and smithing. We also want to push for easy Ardy diary for the monastary teleport, and Tree Gnome Village to unlock the spirit trees. **As stated in the beginning the scribbles won't micromanage on how we do these**, it is encouraged to research your own path/route on how you want to do these:
 
+- [ ] Restless Ghost
+- [ ] Rune Mysteries
+- [ ] Ernest the Chicken
+- [ ] Vampire Slayer
 - [ ] Chef's Quest
 - [ ] Misthalin Mystery 
 - [ ] Sheep Shearer
 - [ ] Sleeping Giants
+- [ ] Natural History Museum 
+- [ ] Priest in Peril
 - [ ] Doric's Quest
 - [ ] Knight's Sword
 - [ ] Fishing Contest
@@ -47,7 +53,9 @@ A note on RfD: Dwarf - an early rock cake can come in super handy for suiciding 
 - [ ] Waterfall Quest
 - [ ] Elemental Workshop I/II
 - [ ] Observatory Quest
-- [ ] Lost City
+- [ ] Lost City (grab a couple extra branches for making a staff when doing Fremmy Trials)
+- [ ] Nature's Spirit
+- [ ] Fairy Ring I, part of II till rings
 
 These are roughly in order of region, and allowing for just enough skill levels for Fairy Tale II (flinch Tangleroot). The fishing quests (Fishing Contest, Sea Slug) are needed if you get the eel as an item in Fairy Tale I, but you will still need to top up fishing in Catherby or your preferred location.
 

@@ -14,14 +14,14 @@ ______
 
 After spawning in Lumbridge do the following:
 - [ ] Get 5 thieving 
-- [ ] Get 52 agility 
+- [ ] Get 52 agility (recommend Brimhaven 40 - 52)
 
 Initial agility will get us moving around (and obviously for the wilderness course), and 5 thieving will come in handy for getting cakes as food for the course. Now we need an initial cash stack to fund the 150k entrance fee. As such we'll need to do some Wintertodt. 
 
-- [ ] Do Stronghold of Security for 10k
-- [ ] Grab 4 pieces of warm clothing
-- [ ] Do Daddy's Home 
-- [ ] Do Children of the Sun 
+- [ ] Stronghold of Security for 10k
+- [ ] Grab 3 pieces of warm clothing
+- [ ] Daddy's Home (for some initial construction levels, helpful for getting more exp at Wintertodt)
+- [ ] Children of the Sun (to grab mithril, addy axe)
 - [ ] Get 50 FM 
 - [ ] Trek to Wintertodt and grab clue hunter garb on the way
 
@@ -44,8 +44,8 @@ This should give us enough funds to cover the 150k entrance fees at the wilderne
 It is extremely important that you make your first trip count. You'll likely have ~250k from Wintertodt, so if you don't come back with some loot to sell you're in for a rough time. I'll let you figure out where to sell the loot. If you do wipe and need to make another 50k for another entrance fee there are methods to make some 'quick' cash (ie steel plate body spawn in wilderness). Do not depend on these, make your first trip count!
 
   
-- [ ] Do wilderness course till 77 agility, particularly 1.5m exp
+- [ ] Wilderness course till 76 agility, particularly 1.45m exp
 
-We'll eventually want 80 agility for the Cerb shortcut, so 77 plus quest rewards will get us 80 down the line.
+We'll eventually want 80 agility for the Cerb shortcut, so 76 plus quest rewards will get us 80 down the line.
 
 With more money than we know what to do with we have completed chapter 1, and head to setting up our [transportation network](chapter-2.html).

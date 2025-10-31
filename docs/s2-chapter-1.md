@@ -4,7 +4,7 @@ layout: home
 parent: Season II - Mid Game
 ---
 
-# Chapter V - Dipping toes into PvM
+# Chapter I - Dipping toes into PvM
 
 ## Foreword
 
