@@ -1,6 +1,6 @@
 # PROi Scribbles
 
-Home of the PROi repo. See the scribbles here: https://palestne.github.io
+Home of the PROi repo (Practical Roadmap to OSRS Ironman). See the scribbles here: https://palestne.github.io
 
 ----
 
